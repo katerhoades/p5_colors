@@ -74,7 +74,7 @@
 
 ![Intro p5](images/p5_ComplexShapeAndColor.026.jpeg)
 
-# Next tutorial: [Adding Images](https://github.com/katerhoades/p5_images)
+# Next tutorial: [Interactivity](https://github.com/katerhoades/p5_interactivity/)
 
 # Reference Resource
 ## [Full library of code references at p5js.org/reference](https://p5js.org/reference/)

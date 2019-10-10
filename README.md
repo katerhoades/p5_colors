@@ -74,18 +74,12 @@
 
 ![Intro p5](images/p5_ComplexShapeAndColor.026.jpeg)
 
+# Next tutorial: [Adding Images](https://github.com/katerhoades/p5_images)
+
 # Reference Resource
 ## [Full library of code references at p5js.org/reference](https://p5js.org/reference/)
 
 
-
-#### **Related Pages:**
-* [Interactive Art Lecture](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Interactive_Art)
-* [p5 Drawing Basics Tutorial](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt/)
-* [p5- Variables and Interactivity](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_Interactivity)
-* [p5- Adding Images](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_Images)
-* [p5- Put on GitHub](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_GitHub)
-<br>
 
 #### **Other Resources:**
 * [p5js.org](https://p5js.org/)
